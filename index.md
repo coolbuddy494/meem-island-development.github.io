@@ -1,6 +1,7 @@
-<!DOCTYPE HTML>
+---
+layout: default
+---
 <html>
-  layout: default
 <head>
 <title>Meem Island Development</title>
 </head>
