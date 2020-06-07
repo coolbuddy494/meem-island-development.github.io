@@ -6,7 +6,11 @@ body {
   background: #5d676c;
   font-family: 'Open Sans', sans-serif;
 }
-
+.employlist ul {
+  list-style-type: none;
+  text-decoration: none;
+  color: #FFFFFF;
+}
 .l-site {
   margin: 0 auto;
   max-width: 1600px;
@@ -46,6 +50,7 @@ body {
   left: 0;
   z-index: 3;
 }
+
 
 .band h1 {
   margin: 0;
