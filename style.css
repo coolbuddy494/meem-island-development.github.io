@@ -35,5 +35,6 @@ li a:hover {
 }
 .news {
   float: right;
+  width: 33%;
   color: grey;
 }
