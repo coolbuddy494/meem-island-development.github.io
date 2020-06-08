@@ -4,6 +4,7 @@ margin: auto;
 background-color: white;
 color: black;
 font-family: 'Open Sans', sans-serif;
+text-decoration: none;
 }
 ul {
   list-style-type: none;
